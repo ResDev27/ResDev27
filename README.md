@@ -2,7 +2,7 @@
 
 I'm a Junior Web Developer and currently a learner at <a href="https://becode.org/">be&lt;&sol;code&gt;</a>. I'm also a Student at EPHEC were I'm following evening courses to obtain a Computer Science Bachelor.
 
-You can contact me on my <a href="https://www.linkedin.com/in/r%C3%A9sa-quinta-a0103b1a4/">LinkedId page</a> or by email : resa.quinta@gmail.com
+You can contact me on my <a href="https://www.linkedin.com/in/r%C3%A9sa-quinta-a0103b1a4/">LinkedIn page</a> or by email : resa.quinta@gmail.com
 
 
 <details>
