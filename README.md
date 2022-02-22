@@ -14,7 +14,7 @@ You can contact me on my <a href="https://www.linkedin.com/in/r%C3%A9sa-quinta-a
    <li>Find an internship :mag:</li> 
    <li>My <a href="https://github.com/ResDev27/Portfolio">portfolio</a>
    <li>A React project with my <a href="https://github.com/MazzinWX">Dou'</a> :purple_heart:</li>
-   <li>Learning Java, PHP, React.
+   <li>Learning Python, C#, Unity.
    
   </ul>
 </details>
