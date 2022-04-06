@@ -9,8 +9,6 @@ You can contact me on my <a href="https://www.linkedin.com/in/r%C3%A9sa-quinta-a
  <summary><strong>What I'm learning/working on </strong></summary>
  <ul>
    
-   <li>My last <a href="https://github.com/ResDev27/npProject">project</a> of the moutain at <a href="https://becode.org/">be&lt;&sol;code&gt;</a>  </li>
-   <li>A client project with <a href="https://becode.org/">be&lt;&sol;code&gt;</a></li>
    <li>Find an internship :mag:</li> 
    <li>My <a href="https://github.com/ResDev27/Portfolio">portfolio</a>
    <li>A React project with my <a href="https://github.com/MazzinWX">Dou'</a> :purple_heart:</li>
