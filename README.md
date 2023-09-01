@@ -1,6 +1,6 @@
 ### Hi there 👋🏾, I'm Resa 👩🏾‍💻
 
-I'm currently a learner at <a href="https://www.interface3.be/fr/formation/unity-app-game-developer">Interface3</a>. I'm also a Student at EPHEC were I'm following evening courses to obtain a Computer Science Bachelor.
+I'm currently a student at EPHEC were I'm following evening courses to obtain a Computer Science Bachelor.
 
 You can contact me on my <a href="https://www.linkedin.com/in/r%C3%A9sa-quinta-a0103b1a4/">LinkedIn page</a> or by email : resa.quinta@gmail.com
 
